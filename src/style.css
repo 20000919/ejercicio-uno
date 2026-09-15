@@ -66,3 +66,68 @@
     text-align: center;
     line-height: 1.4;
 }
+
+.sidebar {
+    width: 22%;
+    background-color: white; /* Slate 800 */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.sidebar-top-box {
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+    box-sizing: border-box;
+}
+
+.sidebar-logo-brand {
+    background-color: white
+    ;
+    flex: 0.3;
+    height: 40px;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.sidebar-logo-text {
+    background-color: white
+    ;
+    flex: 0.7;
+    height: 40px;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.sidebar-middle-box {
+    flex: 1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.sidebar-link {
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+    display: block;
+    padding: 8px 12px;
+    border-radius: 6px;
+    background-color: transparent;
+}
+
+.sidebar-footer-text {
+    color: #0e0d0d;
+    font-size: 12px;
+    text-align: center;
+    margin: 22px 0 0 0; 
+}
+
