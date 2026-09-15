@@ -34,3 +34,10 @@ La estructura de la página ocupa el **100% de ancho** y **100vh de alto**. Ahor
 - **Footer:**
   - Ancho: `100%`
   - Alto: `10%` (equivale a `10vh`)
+
+## Paleta de Colores (Basada en Diseño Final):
+
+- **Color Principal (Header/Footer):** `#111827` (Azul muy oscuro)
+- **Fondo Menú Lateral (Aside):** `#F3F4F6` (Gris azulado claro)
+- **Fondo General (Main):** `#FFFFFF` (Blanco)
+- **Texto:** `#1F2937` (Gris oscuro casi negro)
